@@ -1,0 +1,23 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadhossein-asadi/Jest-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadhossein-asadi/Jest-practice/issues"
+  },
+  "homepage": "https://github.com/mohammadhossein-asadi/Jest-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
