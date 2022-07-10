@@ -20,5 +20,8 @@
   "devDependencies": {
     "@types/jest": "^28.1.4",
     "jest": "^28.1.2"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
   }
 }
